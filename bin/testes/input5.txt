@@ -1,0 +1,112 @@
+IU rs53 90 165 63 M RICHARD STALLMAN
+
+IU RS53 90 165 63 M RICHARD STALLMAN
+
+IU el21 80 175 95 m EvGeNiI LaNdIs
+
+IU lt69 90 165 63 M Linus Torvalds
+
+IU dr41 67 171 75 m Dennis Ritchie
+
+IU jw56 61 169 59 F Jeannette Wing
+
+UU rs53 90 -165 63
+
+UU rs53 90 165 -63
+
+IG gYAG YetAnotherGroup
+
+IG g777 WeLoveAVLs
+
+IG gFSF FreeSoftwareFoundation
+
+IG gOSI OpenSourceInitiative
+
+IG gFSF OpenSourceInitiative
+
+LG gFSF
+
+AG rs53 gFSF
+
+AG rs53 gFSF
+
+AG rs53 gOSI
+
+AG lt69 gOSI
+
+AG dr41 gFSF
+
+AG jw56 gOSI
+
+AG el21 gOSI
+
+LG gOSI
+
+DG el21 gOSI
+
+IA act101 1 andar devagarinho
+
+IA act202 10 saltar a corda
+
+AG el21 gYAG
+
+LC
+
+LW
+
+AW el21 act202 1000
+
+AS el21 1000
+
+DG el21 gYAG
+
+AG el21 g777
+
+LC
+
+LW
+
+AW jw56 act202 15
+
+AW jw56 act101 60
+
+AW jw56 act101 15
+
+AW jw56 act202 60
+
+CW jw56 T
+
+CW jw56 C
+
+AW rs53 act101 240
+
+AW lt69 act101 240
+
+AS rs53 100
+
+AS lt69 100
+
+LG gOSI
+
+DG jw56 gOSI
+
+LC
+
+LW
+
+AG jw56 gYAG
+
+AS lt69 1
+
+AS rs53 1
+
+AW lt69 act101 45
+
+AW rs53 act101 45
+
+LC
+
+LW
+
+XS
+

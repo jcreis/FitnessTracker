@@ -1,0 +1,75 @@
+Insercao de atleta com sucesso.
+
+Adesao realizada com sucesso.
+
+Adesao realizada com sucesso.
+
+Adesao realizada com sucesso.
+
+Adesao realizada com sucesso.
+
+Atualizacao de passos com sucesso.
+
+Atualizacao de passos com sucesso.
+
+Atualizacao de passos com sucesso.
+
+Atleta inexistente.
+
+Atleta inexistente.
+
+Treino adicionado com sucesso.
+
+Treino adicionado com sucesso.
+
+Treino adicionado com sucesso.
+
+Insercao de atleta com sucesso.
+
+Adesao realizada com sucesso.
+
+corrida facit 3320 cal
+correr na caparica 2108 cal
+corrida facit 3320 cal
+correr na caparica 1054 cal
+marcha 1475 cal
+
+corrida facit 3005 cal
+sprint 4416 cal
+
+correr na caparica 13739 cal
+marcha 659 cal
+correr na caparica 1099 cal
+
+Marcelo Sousa: Masculino, 70 kg, 60 anos, 7421 cal, 0 ps (Maratona)
+
+Carlos Lopes: Masculino, 50 kg, 42 anos, 15497 cal, 400 ps (Maratona)
+
+Rosa Mota: Feminino, 50 kg, 31 anos, 11277 cal, 60 ps (Maratona)
+
+Grupo Maratona: 34195 cal, 810 ps
+
+Grupo Maratona: 34195 cal, 810 ps
+
+Desistencia realizada com sucesso.
+
+Grupo Maratona: 18698 cal, 410 ps
+
+Carlos Lopes: Masculino, 50 kg, 42 anos, 15497 cal, 400 ps
+
+Atleta atualizado com sucesso.
+
+Grupo Maratona: 18698 cal, 410 ps
+
+Carlos Lopes: Masculino, 80 kg, 55 anos, 15497 cal, 400 ps
+
+Atleta removido com sucesso.
+
+Grupo Maratona: 11277 cal, 410 ps
+
+Grupo Maratona: 11277 cal, 410 ps
+
+Grupo Maratona: 11277 cal, 410 ps
+
+Gravando e terminando...
+

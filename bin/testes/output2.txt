@@ -1,0 +1,50 @@
+Atleta removido com sucesso.
+
+Atleta inexistente.
+
+Insercao de atleta com sucesso.
+
+Grupo criado com sucesso.
+
+Atualizacao de passos com sucesso.
+
+Atualizacao de passos com sucesso.
+
+Grupo inexistente.
+
+Atleta inexistente.
+
+Adesao realizada com sucesso.
+
+Atleta ja tem grupo.
+
+Treino adicionado com sucesso.
+
+Atualizacao de passos com sucesso.
+
+Atleta inexistente.
+
+correr na caparica 1099 cal
+
+Carlos Lopes: Masculino, 50 kg, 42 anos, 1099 cal, 300 ps (Maratona)
+
+Grupo Maratona: 1099 cal, 300 ps
+
+Grupo Maratona: 1099 cal, 300 ps
+
+Grupo inexistente.
+
+Atleta inexistente.
+
+Desistencia realizada com sucesso.
+
+Atleta nao pertence ao grupo.
+
+Grupo Maratona: 0 cal, 0 ps
+
+Grupo Maratona: 0 cal, 0 ps
+
+Grupo Maratona: 0 cal, 0 ps
+
+Gravando e terminando...
+

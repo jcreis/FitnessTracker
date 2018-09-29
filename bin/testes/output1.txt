@@ -1,0 +1,67 @@
+Valores invalidos.
+
+Valores invalidos.
+
+Valores invalidos.
+
+Valores invalidos.
+
+Insercao de atleta com sucesso.
+
+Atleta existente.
+
+Numero de passos invalido.
+
+Atleta inexistente.
+
+Atualizacao de passos com sucesso.
+
+Atleta sem treinos.
+
+Nao existem grupos.
+
+Atualizacao de passos com sucesso.
+
+Nao existem grupos.
+
+MET invalido.
+
+Atividade criada com sucesso.
+
+Atividade existente.
+
+Atleta inexistente.
+
+Atividade inexistente.
+
+Tempo invalido.
+
+Treino adicionado com sucesso.
+
+Atualizacao de passos com sucesso.
+
+Treino adicionado com sucesso.
+
+Atleta inexistente.
+
+Opcao invalida.
+
+correr na caparica 2108 cal
+correr na caparica 1054 cal
+
+Rosa Mota: Feminino, 50 kg, 31 anos, 3162 cal, 30 ps
+
+Atleta atualizado com sucesso.
+
+Atleta inexistente.
+
+Valores invalidos.
+
+Atleta inexistente.
+
+Atleta inexistente.
+
+Rosa Mota: Feminino, 51 kg, 32 anos, 3162 cal, 30 ps
+
+Gravando e terminando...
+

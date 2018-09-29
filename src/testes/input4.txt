@@ -1,0 +1,68 @@
+IU ne85 31 170 60 M Nelson Evora
+
+AG ne85 grp
+
+AG cm86 grp
+
+AG rm86 grp
+
+AG mrs45 grp
+
+AS ne85 50
+
+AS ne85 300
+
+AS cm86 100
+
+AS mrs86 1000
+
+AW ne45 act4 9
+
+AW mrs45 act4 9
+
+AW mrs45 act3 7
+
+AW rm86 act3 9
+
+IU ts87 30 155 45 F Telma Santos
+
+AG ts87 grp
+
+CW rm86 T
+
+CW mrs45 T
+
+CW cm86 T
+
+CU mrs45
+
+CU cm86
+
+CU rm86
+
+LC
+
+LW
+
+DG cm86 grp
+
+CG grp
+
+CU cm86
+
+UU cm86 80 150 55
+
+CG grp
+
+CU cm86
+
+RU mrs45
+
+CG grp
+
+LC
+
+LW
+
+XS
+

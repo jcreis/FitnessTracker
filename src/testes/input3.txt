@@ -1,0 +1,64 @@
+IU rm86 50 150 31 F Rosa Mota
+
+AS rm86 20
+
+CW rm86 T
+
+CW cm86 T
+
+LW
+
+AS rm86 10
+
+LC
+
+IA act2 4 marcha 
+
+IA act3 7 corrida facit 
+
+IA act4 8 sprint
+
+AW rm86 act2 7
+
+AW cm86 act2 3
+
+AW cm86 act1 25
+
+AW rm86 act1 2
+
+AW rm86 act3 9
+
+AS rm86 10
+
+AS rm86 20
+
+AW rm86 act1 4
+
+CW rm86 T
+
+CW rm86 T
+
+CU rm86
+
+IU mrs45 70 170 60 M Marcelo Sousa
+
+IU fs45 70 170 60 M Fernando Santana
+
+LC
+
+LW
+
+CU mrs45
+
+CW mrs45 T
+
+CU rm86
+
+CW rm86 T
+
+CU cm86
+
+CW cm86 T
+
+XS
+

@@ -1,0 +1,50 @@
+RU rm86
+
+CU rm86
+
+IU cm86 50 170 42 M Carlos Lopes 
+
+IG grp Maratona
+
+AS cm86 100
+
+AS cm86 100
+
+AG cm86 grpf
+
+AG cmd86 grp
+
+AG cm86 grp
+
+AG cm86 grp
+
+AW cm86 act1 2
+
+AS cm86 100
+
+CW rm86 T
+
+CW cm86 T
+
+CU cm86
+
+LC
+
+LW
+
+DG cm86 grpx
+
+DG cmx86 grp
+
+DG cm86 grp
+
+DG cm86 grp
+
+CG grp
+
+LC
+
+LW
+
+XS
+

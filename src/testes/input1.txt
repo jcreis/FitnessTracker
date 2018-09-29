@@ -1,0 +1,66 @@
+IU wm86 -50 150 31 F Rosa Mota
+
+IU dm86 50 -150 31 F Rosa Mota
+
+IU vm86 50 150 -31 F Rosa Mota
+
+IU rm86 50 150 31 X Rosa Mota
+
+IU rm86 50 150 31 F Rosa Mota
+
+IU rm86 50 150 31 F Rosa Mota
+
+AS rm86 -10
+
+AS vm86 10
+
+AS rm86 10
+
+CW rm86 T
+
+LW
+
+AS rm86 10
+
+LC
+
+IA act2 -10 correr na caparica 
+
+IA act1 10 correr na caparica 
+
+IA act1 10 correr na caparica 
+
+AW rm76 act2 20
+
+AW rm86 act2 20
+
+AW rm86 act1 -20
+
+AW rm86 act1 2
+
+AS rm86 10
+
+AW rm86 act1 4
+
+CW rm5 T
+
+CW rm86 R
+
+CW rm86 T
+
+CU rm86
+
+UU rm86 51 150 32
+
+UU xm86 51 150 32
+
+UU rm86 -51 150 32
+
+RU rm85
+
+CU rm85
+
+CU rm86
+
+XS
+
