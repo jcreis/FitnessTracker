@@ -11,8 +11,8 @@ import fitnessTracker.exceptions.*;
 import fitnessTracker.*;
 
 /** 
- * @author Daniel Murteira (46833) <d.murteira@campus.fct.unl.pt> 
- * @author Joao Reis (43914) <jc.reis@campus.fct.unl.pt> 
+ * @author #####
+ * @author #####
  */
 
 public class Main {
